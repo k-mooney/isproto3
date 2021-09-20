@@ -1,0 +1,3 @@
+!<suite>
+  testAsset: {name=java-maven-junit-helloworld, path=pom.xml, revision=master, requestedVersion=null}
+  
