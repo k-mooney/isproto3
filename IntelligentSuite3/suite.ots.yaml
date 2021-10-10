@@ -1,0 +1,7 @@
+tests:
+  - set-value-in-macro.otx.yaml
+  - advanced-javascript.otx.yaml
+  - value-types.otx.yaml
+  - take-off.otx.yaml
+  - sleep.otx.yaml
+  
