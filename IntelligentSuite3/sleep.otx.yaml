@@ -1,0 +1,8 @@
+note: sleep is important
+steps:
+  - do: '#sleep'
+macros:
+  sleep:
+    steps:
+      - pause: 8s
+  unused: {}
